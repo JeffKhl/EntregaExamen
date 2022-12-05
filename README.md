@@ -16,3 +16,9 @@
 4.-Hacemos un push de la rama valor_referencia
 
 ![image](https://user-images.githubusercontent.com/114091446/205698529-16770917-046f-4133-84b7-295175b1cd31.png)
+
+5.-Hacemos un merge de esta rama a master.
+
+![image](https://user-images.githubusercontent.com/114091446/205701883-db128bf5-01ec-4f27-9a74-20d14a5e4dbf.png)
+
+
