@@ -11,10 +11,6 @@
 
 3.-Creamos y desarrollamos la rama valor_referencia.
 
-![image](https://user-images.githubusercontent.com/114091446/205692241-c33ee602-71d6-4679-b3c7-474da0d0bbea.png)
-
-4.-Creamos una Rama valor_referencia
-
 ![image](https://user-images.githubusercontent.com/114091446/205695711-981829cd-6c46-4088-8920-337f44668fdb.png)
 
 
